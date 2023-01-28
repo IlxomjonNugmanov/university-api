@@ -1,0 +1,10 @@
+.ul{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content:center;
+}
+.card-wrapper{
+    width:300px;
+    height: 200px;
+}
